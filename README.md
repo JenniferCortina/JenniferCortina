@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JenniferCortina
 - 👀 I’m interested in learning more about the tech world in general
-- 🌱 I’m currently in intense code-immersion program
+- 🌱 I’m currently in an intense code-immersion program
 Thank you! Gracias
 
 
